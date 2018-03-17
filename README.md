@@ -1,3 +1,3 @@
 # WlSystem
 Virus Scans: https://pastebin.com/ytAP1PV7
-If your database does not have a password remove ,password= from the connection line (Otherwise it will give an error)
+This is a Key Redeeming System!
